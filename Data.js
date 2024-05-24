@@ -8,22 +8,22 @@ const Data = [
         image:bently,
         title:"bently",
         model:"Continental",
-        price:60,
+        price:170000,
     },
 
     {
         id: 2,
         image:benz,
         title:"benz",
-        model:"Gmr",
-        price:60,
+        model:"AMG G36",
+        price:183000,
     }, 
     {
         id: 3,
         image:ford,
         title:"ford",
         model:"Mustang",
-        price:60,
+        price:33000,
     }
 ]
 
